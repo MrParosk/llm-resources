@@ -21,3 +21,4 @@ This repository contains blogs, papers & courses for building LLM applications.
 ## Language Modeling Theory
 
 - [Language Modeling Reading List](https://eugeneyan.com/writing/llm-reading-list/)
+- [Reinforcement Learning from Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)
